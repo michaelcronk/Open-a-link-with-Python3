@@ -1,7 +1,6 @@
 import webbrowser
 
-# You can change the link to whatever link you want to use
-link = 'https://teamtreehouse.com/michaelcronk'  # You can insert your desired link here
+link = 'https://github.com/michaelcronk'  # You can insert your desired link here
 
 
 def run_website():
